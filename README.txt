@@ -1,6 +1,5 @@
-=== Twenty Seventeen Child ===
-Contributors:  dandelionweb
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JEMTB4U8SYFL6
+=== Enhanced Twenty Seventeen Child Theme ===
+Contributors:  sortofme
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.7.2
 Version: 0.1
@@ -10,7 +9,7 @@ Tags: child theme
 
 == Description ==
 
-A blank child theme for Twenty Seventeen. 
+An enhanced blank child theme for Twenty Seventeen. 
 
 For more information about Twenty Seventeen please go to https://codex.wordpress.org/Twenty_Seventeen.
 
